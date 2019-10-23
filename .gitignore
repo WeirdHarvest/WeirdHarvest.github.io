@@ -1,1 +1,7 @@
+//rbenv
 .ruby-version
+//Jekyll stuff
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
